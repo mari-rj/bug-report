@@ -11,6 +11,12 @@ See error
 Expected Behavior:
 What did you expect to happen?
 
+**Title:** User login functionality  
+
+**Story:**  
+As a **user**, I need a **login page**, so that **I can access my account securely**.  
+
+
 Screenshots:
 If applicable, add screenshots to help explain your problem.
 
