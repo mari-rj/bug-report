@@ -16,6 +16,13 @@ What did you expect to happen?
 **Story:**  
 As a **user**, I need a **login page**, so that **I can access my account securely**.  
 
+### Acceptance Criteria:  
+**Given** I am on the login page,  
+**When** I enter my username and password and click "Login",  
+**Then** I should be redirected to the dashboard.  
+
+
+
 
 Screenshots:
 If applicable, add screenshots to help explain your problem.
